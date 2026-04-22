@@ -46,7 +46,7 @@ E pronto! Só é clicar no link gerado
 Server address: http://127.0.0.1:4000/
 ```
 
-Que abrirá no teu navegador!
+Que abrirá no seu navegador!
 
 
 
